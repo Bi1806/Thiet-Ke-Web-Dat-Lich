@@ -36,6 +36,3 @@ Website phù hợp làm bài tập lớn, đồ án môn học hoặc triển kh
 
 ## 🌐 Mục tiêu của dự án
 Giúp người dùng dễ dàng tìm kiếm thông tin y tế và đặt lịch khám nhanh chóng, đồng thời hỗ trợ phòng khám quản lý thông tin liên hệ một cách đơn giản.
-
-## 🌐 Mục tiêu của dự án
-Giúp người dùng dễ dàng tìm kiếm thông tin y tế và đặt lịch khám nhanh chóng, đồng thời hỗ trợ phòng khám quản lý thông tin liên hệ một cách đơn giản.
