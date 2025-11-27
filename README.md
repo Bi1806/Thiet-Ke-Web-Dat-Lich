@@ -30,7 +30,6 @@ Website phù hợp làm bài tập lớn, đồ án môn học hoặc triển kh
 - Bootstrap 5  
 - JavaScript  
 - Google Maps Embed  
-- FormSubmit (nhận form qua email)
 
 ---
 
